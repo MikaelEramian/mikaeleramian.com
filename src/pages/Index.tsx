@@ -166,7 +166,7 @@ const Index = () => {
           <Reveal requireScroll delay={80}>
             <p className="text-[17px] leading-[1.75] text-foreground/85">
               I'm a computer science student at the University of Limerick, currently interning as a Product Support Engineer at Telnyx. 
-              I spend my time exploring cybersecurity, working toward my Google Cybersecurity Certificate, and building projects with AI-assisted development workflows.
+              I enjoy Cybersecurity and am currently building a home lab environment using Kali Linux and Metasploitable2 to practice penetration testing and vulnerability assessment.
             </p>
           </Reveal>
 
